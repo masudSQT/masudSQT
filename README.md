@@ -271,14 +271,9 @@ I continuously work on:
 ## 📈 GitHub Statistics
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=masudSQT&show_icons=true&theme=dark" alt="Md. Masud GitHub Stats" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masudSQT&layout=compact&theme=dark" alt="Top Languages" width="48%" />
-
+  <img src="https://github-readme-stats.qnimate.com/api?username=masudSQT&show_icons=true&theme=dark" width="48%" />
+  <img src="https://github-readme-stats.qnimate.com/api/top-langs/?username=masudSQT&layout=compact&theme=dark" width="48%" />
 </p>
-
----
 
 ## 🔥 GitHub Streak
 
